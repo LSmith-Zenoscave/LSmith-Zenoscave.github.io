@@ -7,13 +7,13 @@ date:   2020-09-26 20:42:46 -0600
 An app idea I had for performance reviews (professional or personal)
 
 ## Context
-We often review our past work performance. It may be for a work review or personal introspection. In doing so, we bring to light areas of work where we excel, possibly spend too much time, spend too little, or need improvement. To accomplish this effectively we need metrics to assess our performance as it evolves over time. Hitting the mark once is great. But bullseye’s do not come overnight. These metrics are hard to qualify and harder to quantify. Evidence based review is typically a solid approach to this. Sadly evidence is often past recollection or hearsay.
+We often review our past work performance. It may be for a work review or personal introspection. In doing so, we bring to light areas of work where we excel, possibly spend too much time, spend too little, or need improvement. To accomplish this effectively we need metrics to assess our performance as it evolves over time. Hitting the mark once is great. But bullseyes do not come overnight. These metrics are hard to qualify and harder to quantify. Evidence based review is typically a solid approach to this. Sadly evidence is often past recollection or hearsay.
 
 ## Problem
 How do I provide evidence of performance metrics in an organized fashion?
 
 ## Forces
-* Work logs don’t show evidence beyond a quit quote, and may not accurately reflect the value of the work
+* Work logs don’t show evidence beyond a quick quote, and may not accurately reflect the value of the work
 * Git commit messages are often worse
 * Reflection on past projects tasks improves new ones
 * It must be organized and easy to navigate the evidence
