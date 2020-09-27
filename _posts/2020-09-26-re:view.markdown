@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Re:View "
+date:   2020-09-26 20:42:46 -0600
+---
+# Re:View
+An app idea I had for performance reviews (professional or personal)
+
+## Context
+We often review our past work performance. It may be for a work review or personal introspection. In doing so, we bring to light areas of work where we excel, possibly spend too much time, spend too little, or need improvement. To accomplish this effectively we need metrics to assess our performance as it evolves over time. Hitting the mark once is great. But bullseye’s do not come overnight. These metrics are hard to qualify and harder to quantify. Evidence based review is typically a solid approach to this. Sadly evidence is often past recollection or hearsay.
+
+## Problem
+How do I provide evidence of performance metrics in an organized fashion?
+
+## Forces
+* Work logs don’t show evidence beyond a quit quote, and may not accurately reflect the value of the work
+* Git commit messages are often worse
+* Reflection on past projects tasks improves new ones
+* It must be organized and easy to navigate the evidence
+
+## Solution
+Define a workflow that allows for continuous improvement through continuous logging of efforts.
+
+Each log should contain (roughly)
+* When it was done - For obvious reasons
+* How long it took - For more obvious reasons
+* The actual product/proof of work - It is great if you spent 2 months building a new cryptographically secure PRNG... but where is it? Who else uses it? Results!!!
+* Reflection on the work - Metrics are to be improved upon. Not done once.
+    * What questions does it raise - These should be answered eventually
+    * What questions does it answer - To answer the questions of previous evidence
+    * What could be done better - The point is to improve
+    * What value does it add - For obvious reasons (at least from a manager’s perspective)
+
+A collection of these logs should be searchable and hopefully understandable. In doing this we create a work management system. A unified approach to getting things done. 
+
+(It’s almost like homework for a class… maybe pedagogy and higher learning knows some things)
+
+
+## Notes:
+I am actively starting development on this project.
+
+Thanks to [A Pattern Language][pattern-lang], for the layout of this thought process.
+
+[pattern-lang]: http://www.patternlanguage.com/
