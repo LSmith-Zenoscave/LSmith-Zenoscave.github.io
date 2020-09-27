@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Forward"
+date:   2020-09-26 20:07:31 -0600
+---
+I intend to use this as a project blog.
+See some of these projects on [my github][my-github].
+
+[my-github]: https://github.com/LSmith-Zenoscave/

@@ -1,0 +1,9 @@
+title: I did *what* now?
+email: lsmith@zenoscave.com
+description: >-
+  My (LSmith-Zenoscave's) progress and development as a progressive software developer
+baseurl: ""
+url: "https://zenoscave.com"
+github_username:  LSmith-Zenoscave
+theme: minima
+timezone: America/Denver
